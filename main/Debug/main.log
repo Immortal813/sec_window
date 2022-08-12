@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Rost\Project19\sec_window\main\main.cpp(100,6): warning C4101: msg: неиспользованная локальная переменная
+C:\Rost\Project19\sec_window\main\main.cpp(133,7): warning C4101: mess: неиспользованная локальная переменная
+C:\Rost\Project19\sec_window\main\main.cpp(110,9): warning C4101: qwe: неиспользованная локальная переменная
+  main.vcxproj -> C:\Rost\Project19\sec_window\Debug\main.exe
